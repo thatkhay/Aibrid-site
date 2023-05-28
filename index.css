@@ -266,7 +266,9 @@ align-items: center;
  .linktree{
     color: black;
  }
-
+ .linktreeP{
+    color: rgba(255, 66, 19, 0.979);
+ }
 
 
 footer{
