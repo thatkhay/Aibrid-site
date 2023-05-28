@@ -298,6 +298,7 @@ font-weight: 700;
 .apps{
     height: 2rem;
     width: 2rem; 
+    display: none;
 }
 .socialAccDiv{
     display: flex;
