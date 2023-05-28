@@ -191,6 +191,10 @@ button:active{
     transition: 0.7s;
  }
 
+ .anchLink{
+    color: antiquewhite;
+ }
+
 footer{
     height: 5rem;
     width: 100%;
