@@ -203,6 +203,43 @@ button:active{
     color: rgb(226, 217, 236);
     margin-top: 2rem;
  }
+ span{
+    font-weight: 800;
+    margin-bottom: 2rem;
+ }
+
+ .card{
+margin-top: 7rem;
+display: flex;
+flex-direction: column;
+background-color: rgb(235, 233, 231);
+padding: 2rem;
+border-radius: 1rem;
+height: 25rem;
+width: 50%;
+align-items: center;
+ }
+
+ input{
+    margin-top: 1rem;
+    height: 2rem;
+    width: 70%;
+ }
+
+ .reasonInputDiv{
+    margin-top: 2rem;
+    width: 100%;
+ }
+
+ .reasonInput{
+    height: 7rem;
+    width: 100%;
+ }
+ .formButton{
+    height: 2rem;
+    width: 6rem;
+    border-radius: 1rem;
+ }
 
 footer{
     height: 5rem;
