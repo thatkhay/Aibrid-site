@@ -379,4 +379,7 @@ font-weight: 700;
     .logo{
         margin-left: .5rem;
     }
+    .contactImg{
+        width: 70%;
+    }
 }
