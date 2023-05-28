@@ -7,7 +7,7 @@ menu.addEventListener('click', toggleMenu);
 
 function toggleMenu() {
   menu.classList.toggle('active');
-  isMenuVisible = !isMenuVisible; // Toggle the visibility flag
+  isMenuVisible = !isMenuVisible; 
 
   if (isMenuVisible) {
     list.forEach(li => li.style.display = 'block');
