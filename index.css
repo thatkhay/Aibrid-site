@@ -3,7 +3,7 @@ html{
 }
 header{
 height: 4rem;
-background-color: rgba(236, 242, 243, 0.5);
+background-color: rgba(87, 98, 100, 0.5);
 width: 100%;
 backdrop-filter: blur(10px);
 font-family: 'Orbitron', sans-serif; 
