@@ -355,10 +355,10 @@ font-weight: 700;
 
   .upMenuTab, .downMenuTab, .midMenuTab{
     height: 2px;
-    width: 1.3rem;
+    width: 2rem;
     background-color: black;
     transition: ease-in-out 0.6s;
-    margin-left: -2rem;
+    margin-left: -3rem;
     }
     .box{
         width: 93%;
@@ -375,5 +375,8 @@ font-weight: 700;
     }
     .card{
         width: 90%;
+    }
+    .logo{
+        margin-left: .5rem;
     }
 }
