@@ -362,7 +362,7 @@ font-weight: 700;
     margin-left: -3rem;
     }
     .box{
-        width: 93%;
+        width: 90%;
     }
 
     nav{
@@ -384,11 +384,15 @@ font-weight: 700;
         width: 2.5rem;
     }
     .inputDiv{
-display: flex;
-align-items: center;
-justify-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .contactImg{
         width: 100%;
+    }
+    .innerBoxImage{
+        height: 10rem;
+
     }
 }
