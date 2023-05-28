@@ -348,9 +348,7 @@ font-weight: 700;
 @media (min-width: 350px) and (max-width: 850px) {
     
     header{
-        width: 100%;
-        
-        
+        width: 100%;         
   }
 
   .upMenuTab, .downMenuTab, .midMenuTab{
@@ -384,5 +382,8 @@ font-weight: 700;
 display: flex;
 align-items: center;
 justify-content: center;
+    }
+    .contactImg{
+        width: 100%;
     }
 }
