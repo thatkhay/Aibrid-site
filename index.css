@@ -401,4 +401,7 @@ font-weight: 700;
         height: 10rem;
 
     }
+    h1{
+        font-size: 1.6rem;
+    }
 }
