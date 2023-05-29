@@ -152,12 +152,12 @@ img{
   }
   
 
-button:hover{
+.button:hover{
    transform: scale(1.1);
    box-shadow: 0 2px 4px rgba(252, 11, 11, 0.2);
 }
 
-button:active{
+.button:active{
     transform: scale(1.1);
     background-color: black;
     color: rgba(255, 66, 19, 0.979);
