@@ -151,7 +151,9 @@ img{
     box-shadow: 0 2px 4px rgba(27, 27, 27, 0.2);
   }
   
-
+.linktree{
+    color: aquamarine;
+}
 .button:hover{
    transform: scale(1.1);
    box-shadow: 0 2px 4px rgba(252, 11, 11, 0.2);
@@ -165,8 +167,7 @@ img{
  }
 
 .djDiv{
-    height: 20rem;
-    width: 70%;
+  
     background-color: black;
     margin-bottom: 3rem;
     border-radius: 4rem;
@@ -175,9 +176,8 @@ img{
     justify-content: space-between;
     padding: 1rem;
 }
-.producerDiv{
-    height: 20rem;
-    width: 70%;
+.soundEng{
+
     background-color: rgba(255, 66, 19, 0.979);
     border-radius: 4rem;
     display: flex;
@@ -185,6 +185,20 @@ img{
     align-items: center;
     justify-content: space-between;
     padding: 1rem;
+}
+
+.consult{
+    margin-top: 3rem;
+    background-color: rgb(253, 248, 243);
+    border-radius: 4rem;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.color{
+    color: #000;
 }
 
 .sec{
@@ -196,6 +210,8 @@ img{
     justify-content: center;
 }
 .box{
+    height: 20rem;
+    width: 70%;
     padding: 2rem;
     text-align: left;
     box-shadow: 0 2px 4px rgba(29, 28, 28, 0.2);
@@ -208,7 +224,7 @@ img{
  }
 
  .anchLink{
-    color: rgb(226, 217, 236);
+    color: rgb(213, 179, 252);
     margin-top: 2rem;
  }
  span{
