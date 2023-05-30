@@ -197,6 +197,9 @@ img{
     justify-content: space-between;
     padding: 1rem;
 }
+.innerBoxImage{
+    border-radius: 50%;
+}
 .color{
     color: #000;
 }
@@ -414,7 +417,9 @@ font-weight: 700;
         width: 100%;
     }
     .innerBoxImage{
-        height: 10rem;
+        height: 8rem;
+        width: 8rem;
+
 
     }
     h1{
