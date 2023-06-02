@@ -320,8 +320,9 @@ font-weight: 700;
     width: 100%;
 }
 .apps{
-    height: 2rem;
-    width: 2rem; 
+    margin-top: 1rem;
+    height: 3rem;
+    width: 3rem; 
     display: none;
 }
 .socialAccDiv{
@@ -427,5 +428,8 @@ font-weight: 700;
     }
     h2{
         font-size: 1.4rem;
+    }
+    .apps{
+        margin-right: 1rem;
     }
 }
