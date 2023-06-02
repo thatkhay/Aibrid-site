@@ -152,7 +152,7 @@ img{
   }
   
 .linktree{
-    color: aquamarine;
+    color: rgb(253, 248, 243);
 }
 .button:hover{
    transform: scale(1.1);
@@ -355,7 +355,7 @@ border-radius: 1rem;
     width: 7rem;
     margin-top: 2rem;
     background-color: black;
-    color: white;
+    color: rgb(253, 248, 243);
     border: 2px solid rgba(255, 66, 19, 0.979);
     border-radius: 1rem;
     text-align: center;
@@ -365,7 +365,7 @@ border-radius: 1rem;
     height: 3rem;
     width: 7rem;
     margin-top: 2rem;
-    background-color: white;
+    background-color: rgb(253, 248, 243);
     color: black;
     border: 2px solid rgba(255, 66, 19, 0.979);
     border-radius: 1rem;
