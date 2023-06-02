@@ -271,6 +271,10 @@ align-items: center;
     margin-top: 1rem;
  }
 
+ .innerBioP{
+    display: none;
+ }
+
  .formButton:hover{
     transform: scale(1.1);
     box-shadow: 0 2px 4px rgba(252, 11, 11, 0.2);
@@ -325,6 +329,21 @@ font-weight: 700;
     width: 3rem; 
     display: none;
 }
+
+.contactDiv{
+margin-top: 4rem;
+height: 8rem;
+width: 80%;
+background-color: rgba(255, 66, 19, 0.979);
+padding: 2rem;
+border-radius: 1rem;
+}
+
+.contactTitle{
+    color: rgb(253, 248, 243);
+}
+
+
 .socialAccDiv{
     display: flex;
     justify-content: space-evenly;
