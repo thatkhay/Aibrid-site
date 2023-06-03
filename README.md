@@ -1,3 +1,4 @@
 # Aibrid-site
 site to book a dj
-# https://aibrid.netlify.app/
+# Link to the site
+https://aibrid.netlify.app/
