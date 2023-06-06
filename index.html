@@ -109,25 +109,25 @@
     <div class="card" id="card">
         <h3>REACH OUT TO US</h3>
         <img class="contactImg" src="img/contact.gif" alt="">
-        <form action="#">
+        <form name="contact"  method="post" data-netlify="true" onsubmit="submit">
 <div class="inputDiv  nameInputDiv">
-<label for="name" class="nameL">Name</label>
-<input type="text" class="input nameInput" required>
+<label for="name" class="nameL" >Name</label>
+<input name="name" type="text" class="input nameInput" required>
 </div>
 
-<div class="inputDiv emailInputDiv">
-    <label for="email" class="emailL">Email</label>
-    <input type="email" class="input emailInput" required>
+<div class="inputDiv emailInputDiv" >
+    <label for="email" class="emailL">Email</label>  
+    <input name="email" type="email" class="input emailInput" required>
 </div>
 
-<div class="inputDiv numberInputDiv">
+<div class="inputDiv numberInputDiv" >
     <label for="number" class="numberL">Phone No</label>
-    <input type="number" class="input numberInput" required>
+    <input name="number" type="number" class="input numberInput" required>
 </div>
 
-<div class="inputDiv reasonInputDiv">
+<div class="inputDiv reasonInputDiv" >
     <label for="reasons" class="reasonL">Reaon for Contact</label>
-    <input type="text" class="input reasonInput" required>
+    <input name="reasons" type="text" class="input reasonInput" required>
 </div>
 
 <button class="formButton">submit</button>
