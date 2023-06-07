@@ -165,6 +165,10 @@ img{
     color: rgba(255, 66, 19, 0.979);
     border: 2px solid rgba(255, 66, 19, 0.979);
  }
+ .buttona{
+    text-decoration: none;
+    color: #000;
+ }
 
 .djDiv{
   
@@ -243,7 +247,6 @@ flex-direction: column;
 background-color: rgb(253, 248, 243);
 padding: 2rem;
 border-radius: 1rem;
-height: 45rem;
 width: 50%;
 align-items: center;
  }
