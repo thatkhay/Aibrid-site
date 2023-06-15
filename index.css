@@ -400,6 +400,8 @@ border-radius: 1rem;
         display: flex;  
         align-items: center;  
         justify-content: center;
+        padding-right: 1.5rem;
+        padding-left: .5rem;
   }
 
   .upMenuTab, .downMenuTab, .midMenuTab{
