@@ -195,7 +195,7 @@ img{
 
 .consult{
     margin-top: 3rem;
-    background-color: rgb(253, 248, 243);
+    background-color: black;
     border-radius: 4rem;
     display: flex;
     display: flex;
@@ -246,7 +246,7 @@ img{
 margin-top: 7rem;
 display: flex;
 flex-direction: column;
-background-color: rgb(253, 248, 243);
+border: 2px solid black;
 padding: 2rem;
 border-radius: 1rem;
 width: 50%;
@@ -254,8 +254,8 @@ align-items: center;
  }
 
  input{
-    margin-top: 1rem;
-    height: 2rem;
+   padding: 5px;
+    height: 1.7rem;
     width: 70%;
  }
 
@@ -268,12 +268,19 @@ align-items: center;
     height: 7rem;
     width: 100%;
  }
+ label{
+    margin-right: 1rem;
+ }
  .formButton{
-    height: 2rem;
+   height: 2rem;
     width: 6rem;
-    border-radius: 1rem;
-    color: rgba(255, 66, 19, 0.979);
-    margin-top: 1rem;
+    margin-top: 2rem;
+    background-color: black;
+    color: rgb(253, 248, 243);
+  
+    border-radius: .5rem;
+    text-align: center;
+    cursor: pointer;
  }
 
  .innerBioP{
@@ -364,6 +371,7 @@ border-radius: 1rem;
     border: 2px solid rgba(255, 66, 19, 0.979);
     border-radius: 1rem;
     text-align: center;
+    cursor: pointer;
 }
 
 .socialsButton:hover{
@@ -393,6 +401,13 @@ border-radius: 1rem;
 .socialAccDiv{
     margin-top: 1rem;
 }
+
+ .inputDiv{
+        display: flex;
+        align-items: center;
+       margin-top: 1rem;
+        
+    }
 
 @media (min-width: 350px) and (max-width: 850px) {
     
@@ -457,5 +472,12 @@ border-radius: 1rem;
     }
     .apps{
         margin-right: 1rem;
+    }
+    .nameBio{
+        font-size: 1.2rem;
+    }
+    .button{
+        height: 3rem;
+        width: 7rem;
     }
 }
