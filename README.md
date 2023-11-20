@@ -1,5 +1,5 @@
 # Aibrid-site
 site to book a dj
-![aibrid](https://github.com/thatkhay/Aibrid-site/assets/117424081/db1cb644-9570-41e8-ab1c-06b575c7fb60)
+![Screenshot 2023-11-20 213038](https://github.com/thatkhay/Aibrid-site/assets/117424081/5365ecb0-aef2-40db-98e3-0a8835568eec)
 # Link 
 https://aibridmusic.com
