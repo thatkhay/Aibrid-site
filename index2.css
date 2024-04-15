@@ -1,0 +1,19 @@
+
+
+
+.nav{
+     padding: .5rem 2rem;
+}
+
+.nav-div{
+    width: 50%;
+}
+
+.nav-list{
+    width: 100%;
+    list-style: none;
+}
+
+.img{
+    margin-left: 2rem;
+}
